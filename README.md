@@ -8,6 +8,6 @@ Esta es una prueba para saber si le entendi a Papi Nacho! Ya no se que hacer :( 
 ### Encabezado Terciario (Secci??n)
 
 Listas 
-*Elemento a
-*Elemento b
-*Elemento c
+* Elemento a
+* Elemento b
+* Elemento c
